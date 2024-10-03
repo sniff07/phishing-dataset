@@ -34,3 +34,6 @@ IEEE Access Available at: https://ieeexplore.ieee.org/document/10697161
 
 Is Generative AI the Next Tactical Cyber Weapon For Threat Actors? Unforeseen Implications of AI Generated Cyber Attacks
 Y Usman, A Upadhyay, P Gyawali, R Chataut Available at: 
+
+Spam No More: A Cross-Model Analysis of Machine Learning Techniques and Large Language Model Efficacies
+MN Robin Chataut, Aadesh Upadhyay, Yusuf Usman, Prashnna K Gyawalis, Available at:
