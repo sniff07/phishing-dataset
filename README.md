@@ -14,7 +14,7 @@ Chataut R, Usman Y, Chowdhury Mohammad A, Gyawali S, Gyawali PK. Enhancing Phish
 
 ## Sample Repository
 
-Note
+## Note
 Please cite the following work when you use this dataset for your research:
 
 Can ai keep you safe? a study of large language models for phishing detection
