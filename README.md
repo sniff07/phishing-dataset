@@ -6,6 +6,14 @@ This repository contains a dataset for enhancing phishing detection using AI. Th
 
 The dataset can be found in the `dataset` folder. It includes various files necessary for phishing detection analysis.
 
+This repository features a meticulously curated dataset of over 20,000 labeled messages for phishing and spam detection.
+
+It includes 19,712 annotated phishing emails collected and labeled for machine learning and large language model (LLM) research, featured in "A Novel Dataset and Comprehensive Analysis Using ML and LLMs."
+
+Additionally, it incorporates the well-known SMS Spam Collection dataset with 5,573 labeled SMS messages (spam vs. ham).
+
+This combined dataset supports robust experimentation in phishing detection, spam filtering, and model evaluation for both traditional ML and modern LLM approaches.
+
 ## Citation
 
 If you use this dataset in your research, please cite the following paper:
